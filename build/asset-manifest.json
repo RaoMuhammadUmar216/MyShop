@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MyShop/static/css/main.3d7d5830.css",
+    "main.js": "/MyShop/static/js/main.c48b6c76.js",
+    "static/js/787.4fb5f8c8.chunk.js": "/MyShop/static/js/787.4fb5f8c8.chunk.js",
+    "static/media/book.jpg": "/MyShop/static/media/book.7fd73cc5d465e9e06300.jpg",
+    "static/media/mug.jpg": "/MyShop/static/media/mug.f87ea0f55bbad839b7df.jpg",
+    "static/media/puzzle.jpg": "/MyShop/static/media/puzzle.02a50387ddc9ef5c9b61.jpg",
+    "index.html": "/MyShop/index.html",
+    "main.3d7d5830.css.map": "/MyShop/static/css/main.3d7d5830.css.map",
+    "main.c48b6c76.js.map": "/MyShop/static/js/main.c48b6c76.js.map",
+    "787.4fb5f8c8.chunk.js.map": "/MyShop/static/js/787.4fb5f8c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d7d5830.css",
+    "static/js/main.c48b6c76.js"
+  ]
+}
