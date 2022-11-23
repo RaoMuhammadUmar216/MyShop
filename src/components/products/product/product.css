@@ -1,0 +1,38 @@
+.product {
+    width: 59%;
+    display: flex;
+    align-items: center;
+    box-shadow: 4px 2px 14px -5px black;
+    border-radius: 12px;
+    margin-bottom: 16px;
+}
+
+.product_size {
+    width: 16rem;
+    border-radius: 12px;
+}
+
+
+.product_desc {
+    margin-left: 8px;
+    font-size: 13px;
+}
+
+.list_btn {
+    display: flex;
+    flex-direction: column;
+    margin: 32px;
+}
+
+button {
+    width: 80px;
+    height: 30px;
+    border-radius: 6px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+
+.add_btn {
+    background-color: black;
+    color: white;
+}

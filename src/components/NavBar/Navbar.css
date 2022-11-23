@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: rgb(41, 41, 126);
+  width: 100%;
+  justify-content: space-between;
+  display: flex;
+}
+
+.title {
+  padding: 1rem;
+  color: white;
+}
+
+.add_to_cart {
+  width: 4rem;
+  margin: 6px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: space-between;
+  background-color: white;
+  border-radius: 1rem;
+  color: black;
+  padding: 0.5rem;
+}
+
+.cart {
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+
+.baskit {
+  width: 30px;
+}
+
+.cart_counte {
+  width: 39%;
+  border: 1px solid black;
+  border-radius: 50px;
+}
