@@ -19,7 +19,7 @@ const Navbar = () => {
 
   return (
     <div className="header">
-      <Link to='/'>
+      <Link to='/home'>
         <h2 className='title'>Redux Shopping Cart</h2>
       </Link>
       <Link to='/cart' style={{ textDecoration: "none" }}>
