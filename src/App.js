@@ -12,7 +12,7 @@ function App() {
       <BrowserRouter>
         <Navbar />
         <Routes>
-          <Route exact path='/home' element={<Products />} />
+          <Route exact path='/' element={<Products />} />
           <Route exact path='/cart' element={<Cart />} />
           <Route exact path='/product/:id' element={<SingleItem />} />
         </Routes>
